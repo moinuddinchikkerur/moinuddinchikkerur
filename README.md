@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Moinuddin Chikkerur
 
-<!--
-**moinuddinchikkerur/moinuddinchikkerur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer passionate about building useful web applications and learning modern technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning JavaScript, Python and full stack development
+- Building projects like AI Mentor and Task Management apps
+- Interested in web development, AI tools and problem solving
+- Open to internships, freelance work and collaboration
+
+## Skills
+
+- Languages: JavaScript, Python, HTML, CSS
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express
+- Tools: Git, GitHub, VS Code
+
+## Featured Projects
+
+### AI Mentor
+An AI-based learning assistant project.
+
+### Task Management App
+A web app for managing tasks and improving productivity.
+
+## Contact
+
+- LinkedIn: add-your-link-here
+- Email: add-your-email-here
